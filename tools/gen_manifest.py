@@ -211,7 +211,7 @@ DESC = (
   "cooperating across the table."
 )
 
-GH = "https://github.com/Metta-AI/cogame-pommerman"
+GH = "https://github.com/softmax-universe/cogame-pommerman"
 
 def player(pid, name, desc, env):
     return {
