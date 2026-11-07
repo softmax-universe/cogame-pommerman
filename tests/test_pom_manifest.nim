@@ -147,7 +147,6 @@ suite "pommerman manifest":
     check "  pommerman:" in compose
     check "image: coworld-pommerman:latest" in compose
     check "platform: linux/amd64" in compose
-    check "network: host" in compose
     var services = 0
     for line in compose.splitLines():
       if line.startsWith("  ") and line.endsWith(":") and

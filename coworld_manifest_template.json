@@ -25,17 +25,17 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-pommerman/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-pommerman/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-pommerman/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-pommerman/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
       "readme": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-pommerman/blob/main/README.md"
+        "value": "https://github.com/softmax-universe/cogame-pommerman/blob/main/README.md"
       },
       "pages": [
         {
@@ -43,7 +43,7 @@
           "title": "Rules",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-pommerman/blob/main/docs/RULES.md"
+            "value": "https://github.com/softmax-universe/cogame-pommerman/blob/main/docs/RULES.md"
           }
         },
         {
@@ -51,7 +51,7 @@
           "title": "The radio channel",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-pommerman/blob/main/docs/RADIO.md"
+            "value": "https://github.com/softmax-universe/cogame-pommerman/blob/main/docs/RADIO.md"
           }
         }
       ]
@@ -488,7 +488,7 @@
       "run": [
         "/bin/pommerman-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-pommerman",
+      "source_url": "https://github.com/softmax-universe/cogame-pommerman",
       "env": {
         "PLAYER_SCRIPTED": "sapper"
       },
@@ -511,7 +511,7 @@
       "run": [
         "/bin/pommerman-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-pommerman",
+      "source_url": "https://github.com/softmax-universe/cogame-pommerman",
       "env": {
         "PLAYER_SCRIPTED": "camper"
       },
